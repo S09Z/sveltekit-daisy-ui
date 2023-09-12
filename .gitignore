@@ -9,6 +9,6 @@
 package
 
 node_modules
-.vsocode
+.vscode
 *.DS_Store
 # End of https://www.toptal.com/developers/gitignore/api/svelte
